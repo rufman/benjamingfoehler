@@ -18,7 +18,7 @@ sections:
   - post
 - type: directory
   path: content/about
-  label: About
+  label: The Swiss Kangaroo
   create: none
   match: "*"
 - type: directory
